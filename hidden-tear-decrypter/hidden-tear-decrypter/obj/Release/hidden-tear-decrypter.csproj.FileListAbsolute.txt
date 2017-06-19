@@ -1,0 +1,9 @@
+C:\Users\Gerardo\Desktop\hidden-tear-decrypter\hidden-tear-decrypter\bin\Release\hidden-tear-decrypter.exe.config
+C:\Users\Gerardo\Desktop\hidden-tear-decrypter\hidden-tear-decrypter\bin\Release\hidden-tear-decrypter.exe
+C:\Users\Gerardo\Desktop\hidden-tear-decrypter\hidden-tear-decrypter\bin\Release\hidden-tear-decrypter.pdb
+C:\Users\Gerardo\Desktop\hidden-tear-decrypter\hidden-tear-decrypter\obj\Release\hidden_tear_decrypter.Form1.resources
+C:\Users\Gerardo\Desktop\hidden-tear-decrypter\hidden-tear-decrypter\obj\Release\hidden_tear_decrypter.Properties.Resources.resources
+C:\Users\Gerardo\Desktop\hidden-tear-decrypter\hidden-tear-decrypter\obj\Release\hidden-tear-decrypter.csproj.GenerateResource.Cache
+C:\Users\Gerardo\Desktop\hidden-tear-decrypter\hidden-tear-decrypter\obj\Release\hidden-tear-decrypter.exe
+C:\Users\Gerardo\Desktop\hidden-tear-decrypter\hidden-tear-decrypter\obj\Release\hidden-tear-decrypter.pdb
+C:\Users\Gerardo\Desktop\hidden-tear-decrypter\hidden-tear-decrypter\obj\Release\hidden-tear-decrypter.csprojResolveAssemblyReference.cache
