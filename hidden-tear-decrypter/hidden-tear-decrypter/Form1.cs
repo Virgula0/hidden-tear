@@ -36,7 +36,7 @@ namespace hidden_tear_decrypter
         private static extern Int32 SystemParametersInfo(UInt32 action, UInt32 uParam, String vParam, UInt32 winIni);
         string userName = Environment.UserName;
         string userDir = "C:\\";
-        string backgroundImageUrl = "http://imgur.com/a/Yu6q9"; //desktop background picture
+        string backgroundImageUrl = "http://i.imgur.com/5Yuq9Qv.jpg"; //desktop background picture
         int decrypted;
 
         public Form1()
