@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="AlterVista - Editor HTML"/>
+  <title>Hidden Tear Server Login</title>
+  <style>
+  	body{
+    	background-color: #4DC4FF;
+    }
+	
+	h1 {width: 100%; text-align: center; margin: auto; margin-top: 2%; color: orangered; font-family: Arial;}
+	h2 {width: 100%; text-align: center; margin: auto; margin-top: 2%; color: lawngreen; font-family: Arial; font-style: oblique;}
+    #container{
+    	margin: auto;
+        width: 30%;
+        border-radius: 10px;
+        border: 10px grey solid;
+        padding: 2%;
+		margin-top: 5%;
+		font-family: "Times New Roman", Times, serif;
+		font-style: normal;
+		font-size: 20px;
+		font-weight: bold;
+		height: auto;
+    }
+    #container > #username {margin: auto; padding: 10%; color: darkorange; }
+    #container * input {width: 100%; text-align:center; margin-top: 3%; border-radius: 25px; border: 3px solid black; height: 20px; }
+	#container > #pass {margin: auto; padding: 10%; color: darkorange;  }
+    #container > #button {
+		margin-left: 41.2%; 
+		width: 20%; 
+		background-color: beige; 
+		margin-top: 3%; 
+		border-radius: 15px; 
+		border: 3px solid black; 
+		height: 30px; 
+	  }
+	  
+	  #container > #button:hover {
+		margin-left: 41.2%; 
+		width: 20%; 
+		background-color: bisque; 
+		margin-top: 3%; 
+		border-radius: 15px; 
+		border: 3px solid black; 
+		height: 30px; 
+		color: red;
+		cursor: pointer;
+	  }
+	  
+	   #eye {
+   			float: right;
+		    margin-top: 10px;
+ 		}
+  </style>
+	<script>
+		function check(){
+			var username = document.getElementById("user").value;
+
+			if(username != null && username == ""){
+				alert("You must insert your username first");
+				return false;
+			}
+
+			var password = document.getElementById("pwd").value;
+
+			if(password != null && password == ""){
+				alert("You must insert your password first");
+				return false;
+			}
+
+			if (true){
+				document.getElementById("ff").submit();
+			}
+			
+		}
+	</script>
+</head>
+<body>
+
+  <p>&nbsp;</p>
+
+	<h1>Private Area </h1>
+	<h2>Insert credetials to get access to panel.</h2>
+	<form method="post" action="./check.php" id="ff">
+	  <div id="container">
+		<div id="username">
+			Username <br />
+			<input id="user" type="text" autocomplete="no" autofill="no" placeholder="Username" name="username">
+		</div>
+		<div id="pass">
+			Password <br />
+			<input type="password" placeholder="Password" id="pwd" class="masked" name="password" required="required" autocomplete="no" autofill="no"/>
+			<button type="button" id="eye" onclick="if(pwd.type=='text')pwd.type='password'; else pwd.type='text';">
+        		<img src="https://cdn0.iconfinder.com/data/icons/feather/96/eye-16.png" alt="eye" />
+			</button>
+		  </div>
+		  <input id="button" type="button" name="send" value="Log In" onclick="check();">
+	  </div>
+	</form>	
+</body>
+</html>
