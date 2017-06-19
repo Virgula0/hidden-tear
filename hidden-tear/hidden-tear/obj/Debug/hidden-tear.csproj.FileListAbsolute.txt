@@ -1,0 +1,43 @@
+c:\users\utku\documents\visual studio 2013\Projects\hidden-tear\hidden-tear\bin\Debug\hidden-tear.exe.config
+c:\users\utku\documents\visual studio 2013\Projects\hidden-tear\hidden-tear\bin\Debug\hidden-tear.exe
+c:\users\utku\documents\visual studio 2013\Projects\hidden-tear\hidden-tear\bin\Debug\hidden-tear.pdb
+c:\users\utku\documents\visual studio 2013\Projects\hidden-tear\hidden-tear\obj\Debug\hidden_tear.Form1.resources
+c:\users\utku\documents\visual studio 2013\Projects\hidden-tear\hidden-tear\obj\Debug\hidden_tear.Properties.Resources.resources
+c:\users\utku\documents\visual studio 2013\Projects\hidden-tear\hidden-tear\obj\Debug\hidden-tear.csproj.GenerateResource.Cache
+c:\users\utku\documents\visual studio 2013\Projects\hidden-tear\hidden-tear\obj\Debug\hidden-tear.exe
+c:\users\utku\documents\visual studio 2013\Projects\hidden-tear\hidden-tear\obj\Debug\hidden-tear.pdb
+C:\Users\utku\Documents\Visual Studio 2013\Projects\hidden-tear\hidden-tear\obj\Debug\hidden-tear.csprojResolveAssemblyReference.cache
+C:\Users\Angelo\Desktop\hidden-tear-master\hidden-tear\hidden-tear\bin\Debug\hidden-tear.exe.config
+C:\Users\Angelo\Desktop\hidden-tear-master\hidden-tear\hidden-tear\bin\Debug\hidden-tear.exe
+C:\Users\Angelo\Desktop\hidden-tear-master\hidden-tear\hidden-tear\bin\Debug\hidden-tear.pdb
+C:\Users\Angelo\Desktop\hidden-tear-master\hidden-tear\hidden-tear\obj\Debug\hidden-tear.csprojResolveAssemblyReference.cache
+C:\Users\Angelo\Desktop\hidden-tear-master\hidden-tear\hidden-tear\obj\Debug\hidden_tear.Form1.resources
+C:\Users\Angelo\Desktop\hidden-tear-master\hidden-tear\hidden-tear\obj\Debug\hidden_tear.Properties.Resources.resources
+C:\Users\Angelo\Desktop\hidden-tear-master\hidden-tear\hidden-tear\obj\Debug\hidden-tear.csproj.GenerateResource.Cache
+C:\Users\Angelo\Desktop\hidden-tear-master\hidden-tear\hidden-tear\obj\Debug\hidden-tear.exe
+C:\Users\Angelo\Desktop\hidden-tear-master\hidden-tear\hidden-tear\obj\Debug\hidden-tear.pdb
+C:\Users\Angelo\Desktop\wd-cryptor\hidden-tear\hidden-tear\bin\Debug\hidden-tear.exe.config
+C:\Users\Angelo\Desktop\wd-cryptor\hidden-tear\hidden-tear\bin\Debug\hidden-tear.exe
+C:\Users\Angelo\Desktop\wd-cryptor\hidden-tear\hidden-tear\bin\Debug\hidden-tear.pdb
+C:\Users\Angelo\Desktop\wd-cryptor\hidden-tear\hidden-tear\obj\Debug\hidden-tear.csprojResolveAssemblyReference.cache
+C:\Users\Angelo\Desktop\wd-cryptor\hidden-tear\hidden-tear\obj\Debug\hidden_tear.Form1.resources
+C:\Users\Angelo\Desktop\wd-cryptor\hidden-tear\hidden-tear\obj\Debug\hidden_tear.Properties.Resources.resources
+C:\Users\Angelo\Desktop\wd-cryptor\hidden-tear\hidden-tear\obj\Debug\hidden-tear.csproj.GenerateResource.Cache
+C:\Users\Angelo\Desktop\wd-cryptor\hidden-tear\hidden-tear\obj\Debug\hidden-tear.exe
+C:\Users\Angelo\Desktop\wd-cryptor\hidden-tear\hidden-tear\obj\Debug\hidden-tear.pdb
+C:\Virus\wd-cryptor\hidden-tear\hidden-tear\bin\Debug\hidden-tear.exe.config
+C:\Virus\wd-cryptor\hidden-tear\hidden-tear\bin\Debug\hidden-tear.exe
+C:\Virus\wd-cryptor\hidden-tear\hidden-tear\bin\Debug\hidden-tear.pdb
+C:\Virus\wd-cryptor\hidden-tear\hidden-tear\obj\Debug\hidden-tear.csprojResolveAssemblyReference.cache
+C:\Virus\wd-cryptor\hidden-tear\hidden-tear\obj\Debug\hidden_tear.Form1.resources
+C:\Virus\wd-cryptor\hidden-tear\hidden-tear\obj\Debug\hidden_tear.Properties.Resources.resources
+C:\Virus\wd-cryptor\hidden-tear\hidden-tear\obj\Debug\hidden-tear.csproj.GenerateResource.Cache
+C:\Virus\wd-cryptor\hidden-tear\hidden-tear\obj\Debug\hidden-tear.exe
+C:\Virus\wd-cryptor\hidden-tear\hidden-tear\obj\Debug\hidden-tear.pdb
+C:\Virus\hidden-tear\hidden-tear\hidden-tear\bin\Debug\hidden-tear.exe.config
+C:\Virus\hidden-tear\hidden-tear\hidden-tear\bin\Debug\hidden-tear.exe
+C:\Virus\hidden-tear\hidden-tear\hidden-tear\obj\Debug\hidden-tear.csprojResolveAssemblyReference.cache
+C:\Virus\hidden-tear\hidden-tear\hidden-tear\obj\Debug\hidden_tear.Form1.resources
+C:\Virus\hidden-tear\hidden-tear\hidden-tear\obj\Debug\hidden_tear.Properties.Resources.resources
+C:\Virus\hidden-tear\hidden-tear\hidden-tear\obj\Debug\hidden-tear.csproj.GenerateResource.Cache
+C:\Virus\hidden-tear\hidden-tear\hidden-tear\obj\Debug\hidden-tear.exe
