@@ -54,7 +54,7 @@ namespace hidden_tear
         string userName = Environment.UserName;
         string computerName = System.Environment.MachineName.ToString();
         string userDir = "C:\\";
-        string backgroundImageUrl = "http://imgur.com/a/F0uSC"; //desktop background picture
+        string backgroundImageUrl = "http://i.imgur.com/xZuLWTN.jpg"; //desktop background picture
 
 
 
