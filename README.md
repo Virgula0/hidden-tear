@@ -29,7 +29,8 @@ It's a ransomware-like file crypter sample which can be modified for specific pu
 * A bug that could delete a part of passcode while sending has been removed.
 
 ***************************************************************************************************************************
-* If you want , you can send some BTC for this re-working and to support me, I regarded you!							  *
+* If you want , you can send some BTC for this re-work and support me, thank you!
+*
 * Address: 18pm5hUEXmkXFVmbFsyHPMMAsnCkEyQJmW	| Or you can scan qr code named donation_btc_address.png in the main path *
 * Or paypal: https://paypal.me/Virgula																					  *
 * Thank You!																											  *
