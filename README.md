@@ -17,11 +17,10 @@ It's a ransomware-like file crypter sample which can be modified for specific pu
 * This project was updated by Virgula0 and coded by Uktu Sen 
 - New features:
 * A new advanced server script was added that saves data into database
-* All information are sent if there is an internet connection and the ransomware waiting for it if there isn't.
+* All informations are sent if there is an internet connection and the ransomware wait for it if there isn't.
 * You can see all target information with Server Attacker panel
 * Script can also send you an email with datas
 * It can encrypt also exe files and it doesn't get collisions with other processes now
-* After the double click on it, virus disappears and it can ecnrypt with no collision due to this Move.Directory function
 * It encrypt now a lot of files with a lot of extensions more and changing desktop icon with information about hacking attack
 * Hidden Tear decryptor now advise if files have been decrypted or not.
 * Hidden Tear Decryptor now is able to decrypt the same directories of hidden-tear ransomware.
@@ -62,14 +61,12 @@ Warning: in that video wasn't shown the attacker panel but only the key saved in
   
   ```
 * Target file extensions can be change. Default list:
-* Warning: Make sure that script works before to try on a victim pc running it on some virtual machines for example.
-
 ```
 var validExtensions = new[]{".txt", ".jar", ".exe", ".dat", ".contact" , ".settings", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".odt", ".jpg", ".png", ".csv", ".py", ".sql", ".mdb", ".sln", ".php", ".asp", ".aspx", ".html", ".htm", ".xml", ".psd" , ".pdf" , ".dll" , ".c" , ".cs", ".mp3" , ".mp4", ".f3d" , ".dwg" , ".cpp" , ".zip" , ".rar" , ".mov" , ".rtf" , ".bmp" , ".mkv" , ".avi" , ".apk" , ".lnk" , ".iso", ".7-zip", ".ace", ".arj", ".bz2", ".cab", ".gzip", ".lzh", ".tar", ".uue", ".xz", ".z", ".001", ".mpeg", ".mp3", ".mpg", ".core", ".crproj" , ".pdb", ".ico" , ".pas" , ".db" ,  ".torrent" };
 ```
 
 * PLEASE DON'T ADD .INI EXTENSION BECAUSE THE CONFILCT WITH THIS FILES WILL CRASH YOUR SCRIPT
-* In this new re-upload there is a function that wait for internet connection before to send password to database:
+* In this new re-upload there is a function that wait for internet connection before to send password to the database:
 
 	    ```
         //check for internet connection
