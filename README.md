@@ -30,7 +30,9 @@ It's a ransomware-like file crypter sample which can be modified for specific pu
 ***************************************************************************************************************************
 * If you want , you can send some BTC for this re-work and support me, thank you!
 * Address: 1HfwYmCDiHYRxzcbpDf7vSKfv8g9Y1MgpW	| Or you can scan qr code named donation_btc_address.png in the main path *
-* Or paypal: https://paypal.me/Virgula																					  *
+* Paypal: https://paypal.me/Virgula
+* Ethereum 0x25119edFC9aA4D5beb40F24f5A759c4CA0263A54
+* Bitcoin Cash: qzmd7kn87q5dkmkzalwu6pct82e68skzksxdfxxd0a
 * Thank You!																											  *
 ***************************************************************************************************************************
 
