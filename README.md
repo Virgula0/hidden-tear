@@ -29,7 +29,7 @@ It's a ransomware-like file crypter sample which can be modified for specific pu
 
 ***************************************************************************************************************************
 * If you want , you can send some BTC for this re-work and support me, thank you!
-* Address: 18pm5hUEXmkXFVmbFsyHPMMAsnCkEyQJmW	| Or you can scan qr code named donation_btc_address.png in the main path *
+* Address: 1HfwYmCDiHYRxzcbpDf7vSKfv8g9Y1MgpW	| Or you can scan qr code named donation_btc_address.png in the main path *
 * Or paypal: https://paypal.me/Virgula																					  *
 * Thank You!																											  *
 ***************************************************************************************************************************
